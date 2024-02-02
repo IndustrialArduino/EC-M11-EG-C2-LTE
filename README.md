@@ -20,5 +20,5 @@ IP67 Rated Enclosure
 7:   Blue:    Power+
 8:   Red:     Power-
 
-Datasheet:   https://drive.google.com/open?id=1rYxuqYjYRml9mN0uZjhhUmxiqZWWkQPz&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1gqwpLvJNW8VV_i-wN_kS4a5iT8L8MUbG&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-bc-c2-lte-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-bc-c2-lte-user-guide/
